@@ -27,7 +27,8 @@ previousTimeClip := TimeClip ,previousTimeFile := TimeFile
 
 SetTimer, check_time, 800 ;check file status once per second
 GoSub Notification
-
+; this is another thing
+; this file is awesome
 ;***********************tray items********************************.
 ;~ Menu, Tray, Add, Sound
 Menu, Tray, Add
